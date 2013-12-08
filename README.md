@@ -6,3 +6,5 @@ again
 again
 something
 moar
+
+TESTING INLINE COMMENTS

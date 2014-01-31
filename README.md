@@ -8,3 +8,7 @@ something
 moar
 
 TESTING INLINE COMMENTS
+
+ANOTHER TEST
+
+TEST
